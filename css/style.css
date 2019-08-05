@@ -9,8 +9,28 @@
     align-items: center;
 }
 
+.fab{
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.social-icons{
+    font-size: 40px;
+    border-radius: 25%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 110px;
+    height: 50px;
+    border: 5px solid white;
+}
+
 .site-header-content {
     margin: 10px;
+}
+
+a{
+    color: white;
 }
 
 body {
